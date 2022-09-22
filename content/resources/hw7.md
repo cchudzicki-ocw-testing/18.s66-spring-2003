@@ -5,6 +5,7 @@ file: /courses/18-s66-the-art-of-counting-spring-2003/346f67ef080c67b821f97fe6df
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
